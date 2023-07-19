@@ -1,0 +1,4 @@
+body {
+  color: red
+}
+<script src="{{ url_for('static', filename='jquery.js') }}"></script>
